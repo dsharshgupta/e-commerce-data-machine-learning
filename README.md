@@ -25,3 +25,15 @@ The dataset used for this project is sourced from [Kaggle](link_to_dataset) (pro
 ## Usage
 
 1. **Clone the Repository:** Clone this repository to your local machine using the command:
+
+## Results
+
+Provide a summary of the results achieved by your models. Include key metrics, visualizations, and insights gained from the sentiment prediction process.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or suggestions, please reach out to mailto:dsharshgupta@gmail.com.
